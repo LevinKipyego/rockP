@@ -16,3 +16,6 @@ have used try: except : technic to handle the situation just after the user inpu
 # loops..
 have used while loop so as the game be a cycle.until when a user interrupts it by a key strock != y/Y
 
+# refs..
+about rock paper scissors:https://en.m.wikipedia.org/wiki/Rock_paper_scissors
+making rock paper scissors with py:https://www.geeksforgeeks.org/python-program-implement-rock-paper-scissor-game/amp/
